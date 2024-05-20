@@ -130,6 +130,8 @@ public class Bingo {
 					}
 					System.out.println();
 				}
+				System.out.println("Premi invio per continuare");
+				sc.nextLine();
 			}
 
 			System.out.print("Vuoi giocare un'altra partita? (si/no): ");
